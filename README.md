@@ -1,4 +1,5 @@
 ## 파일 구조
+```
 ├── data-ingestion/ # 데이터 수집 및 적재 컨테이너 (Python)
 │ ├── Dockerfile
 │ ├── requirements.txt
@@ -11,6 +12,7 @@
 ├── docker-compose.yml # 전체 서비스 정의
 ├── **.env (.env.sample 참고)**
 └── README.md
+```
 
 ## 실행 방법
 
